@@ -1,4 +1,4 @@
-# > crate simple tasks manage program use datetime and file io
+# > Create Simple Tasks Manage Program Using datetime and file io
 
 import datetime as dt
 get_dt = dt.datetime.now()
